@@ -1,0 +1,11 @@
+C:\Users\Данил\source\repos\exam14\exam14\bin\Debug\exam14.exe.config
+C:\Users\Данил\source\repos\exam14\exam14\bin\Debug\exam14.exe
+C:\Users\Данил\source\repos\exam14\exam14\bin\Debug\exam14.pdb
+C:\Users\Данил\source\repos\exam14\exam14\obj\Debug\exam14.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\exam14\exam14\obj\Debug\exam14.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данил\source\repos\exam14\exam14\obj\Debug\exam14.Form1.resources
+C:\Users\Данил\source\repos\exam14\exam14\obj\Debug\exam14.Properties.Resources.resources
+C:\Users\Данил\source\repos\exam14\exam14\obj\Debug\exam14.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\exam14\exam14\obj\Debug\exam14.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\exam14\exam14\obj\Debug\exam14.exe
+C:\Users\Данил\source\repos\exam14\exam14\obj\Debug\exam14.pdb

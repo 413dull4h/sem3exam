@@ -1,0 +1,11 @@
+C:\Users\Данил\source\repos\exam24\exam24\bin\Debug\exam24.exe.config
+C:\Users\Данил\source\repos\exam24\exam24\bin\Debug\exam24.exe
+C:\Users\Данил\source\repos\exam24\exam24\bin\Debug\exam24.pdb
+C:\Users\Данил\source\repos\exam24\exam24\obj\Debug\exam24.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\exam24\exam24\obj\Debug\exam24.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данил\source\repos\exam24\exam24\obj\Debug\exam24.Form1.resources
+C:\Users\Данил\source\repos\exam24\exam24\obj\Debug\exam24.Properties.Resources.resources
+C:\Users\Данил\source\repos\exam24\exam24\obj\Debug\exam24.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\exam24\exam24\obj\Debug\exam24.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\exam24\exam24\obj\Debug\exam24.exe
+C:\Users\Данил\source\repos\exam24\exam24\obj\Debug\exam24.pdb

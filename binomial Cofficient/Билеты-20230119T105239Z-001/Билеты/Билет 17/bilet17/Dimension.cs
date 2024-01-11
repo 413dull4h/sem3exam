@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace bilet17
+{
+    public class Dimension
+    {
+        public static int n = 3;
+        
+    }
+}

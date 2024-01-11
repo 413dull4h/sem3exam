@@ -1,0 +1,22 @@
+C:\Users\Данил\source\repos\exam12\exam12\bin\Debug\exam12.exe.config
+C:\Users\Данил\source\repos\exam12\exam12\bin\Debug\exam12.exe
+C:\Users\Данил\source\repos\exam12\exam12\bin\Debug\exam12.pdb
+C:\Users\Данил\source\repos\exam12\exam12\obj\Debug\exam12.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\exam12\exam12\obj\Debug\exam12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данил\source\repos\exam12\exam12\obj\Debug\exam12.Form1.resources
+C:\Users\Данил\source\repos\exam12\exam12\obj\Debug\exam12.Properties.Resources.resources
+C:\Users\Данил\source\repos\exam12\exam12\obj\Debug\exam12.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\exam12\exam12\obj\Debug\exam12.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\exam12\exam12\obj\Debug\exam12.exe
+C:\Users\Данил\source\repos\exam12\exam12\obj\Debug\exam12.pdb
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 12\exam12\exam12\bin\Debug\exam12.exe.config
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 12\exam12\exam12\bin\Debug\exam12.exe
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 12\exam12\exam12\bin\Debug\exam12.pdb
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 12\exam12\exam12\obj\Debug\exam12.csproj.AssemblyReference.cache
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 12\exam12\exam12\obj\Debug\exam12.csproj.SuggestedBindingRedirects.cache
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 12\exam12\exam12\obj\Debug\exam12.Form1.resources
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 12\exam12\exam12\obj\Debug\exam12.Properties.Resources.resources
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 12\exam12\exam12\obj\Debug\exam12.csproj.GenerateResource.cache
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 12\exam12\exam12\obj\Debug\exam12.csproj.CoreCompileInputs.cache
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 12\exam12\exam12\obj\Debug\exam12.exe
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 12\exam12\exam12\obj\Debug\exam12.pdb

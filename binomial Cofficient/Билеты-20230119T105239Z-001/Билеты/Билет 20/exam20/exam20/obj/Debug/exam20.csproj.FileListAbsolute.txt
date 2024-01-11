@@ -1,0 +1,11 @@
+C:\Users\Данил\source\repos\exam20\exam20\bin\Debug\exam20.exe.config
+C:\Users\Данил\source\repos\exam20\exam20\bin\Debug\exam20.exe
+C:\Users\Данил\source\repos\exam20\exam20\bin\Debug\exam20.pdb
+C:\Users\Данил\source\repos\exam20\exam20\obj\Debug\exam20.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\exam20\exam20\obj\Debug\exam20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данил\source\repos\exam20\exam20\obj\Debug\exam20.Form1.resources
+C:\Users\Данил\source\repos\exam20\exam20\obj\Debug\exam20.Properties.Resources.resources
+C:\Users\Данил\source\repos\exam20\exam20\obj\Debug\exam20.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\exam20\exam20\obj\Debug\exam20.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\exam20\exam20\obj\Debug\exam20.exe
+C:\Users\Данил\source\repos\exam20\exam20\obj\Debug\exam20.pdb

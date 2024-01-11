@@ -1,0 +1,17 @@
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\bin\Debug\net6.0-windows\bilet25.exe
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\bin\Debug\net6.0-windows\bilet25.deps.json
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\bin\Debug\net6.0-windows\bilet25.runtimeconfig.json
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\bin\Debug\net6.0-windows\bilet25.dll
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\bin\Debug\net6.0-windows\bilet25.pdb
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\obj\Debug\net6.0-windows\bilet25.csproj.AssemblyReference.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\obj\Debug\net6.0-windows\bilet25.Form1.resources
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\obj\Debug\net6.0-windows\bilet25.csproj.GenerateResource.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\obj\Debug\net6.0-windows\bilet25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\obj\Debug\net6.0-windows\bilet25.AssemblyInfoInputs.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\obj\Debug\net6.0-windows\bilet25.AssemblyInfo.cs
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\obj\Debug\net6.0-windows\bilet25.csproj.CoreCompileInputs.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\obj\Debug\net6.0-windows\bilet25.dll
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\obj\Debug\net6.0-windows\refint\bilet25.dll
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\obj\Debug\net6.0-windows\bilet25.pdb
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\obj\Debug\net6.0-windows\bilet25.genruntimeconfig.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet25\obj\Debug\net6.0-windows\ref\bilet25.dll

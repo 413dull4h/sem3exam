@@ -1,0 +1,11 @@
+C:\Users\Данил\source\repos\exam18\exam18\bin\Debug\exam18.exe.config
+C:\Users\Данил\source\repos\exam18\exam18\bin\Debug\exam18.exe
+C:\Users\Данил\source\repos\exam18\exam18\bin\Debug\exam18.pdb
+C:\Users\Данил\source\repos\exam18\exam18\obj\Debug\exam18.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\exam18\exam18\obj\Debug\exam18.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данил\source\repos\exam18\exam18\obj\Debug\exam18.Form1.resources
+C:\Users\Данил\source\repos\exam18\exam18\obj\Debug\exam18.Properties.Resources.resources
+C:\Users\Данил\source\repos\exam18\exam18\obj\Debug\exam18.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\exam18\exam18\obj\Debug\exam18.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\exam18\exam18\obj\Debug\exam18.exe
+C:\Users\Данил\source\repos\exam18\exam18\obj\Debug\exam18.pdb

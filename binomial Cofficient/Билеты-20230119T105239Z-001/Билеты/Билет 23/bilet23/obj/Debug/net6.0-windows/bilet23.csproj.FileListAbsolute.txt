@@ -1,0 +1,34 @@
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\bin\Debug\net6.0-windows\bilet23.exe
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\bin\Debug\net6.0-windows\bilet23.deps.json
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\bin\Debug\net6.0-windows\bilet23.runtimeconfig.json
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\bin\Debug\net6.0-windows\bilet23.dll
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\bin\Debug\net6.0-windows\bilet23.pdb
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\obj\Debug\net6.0-windows\bilet23.csproj.AssemblyReference.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\obj\Debug\net6.0-windows\bilet23.Form1.resources
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\obj\Debug\net6.0-windows\bilet23.csproj.GenerateResource.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\obj\Debug\net6.0-windows\bilet23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\obj\Debug\net6.0-windows\bilet23.AssemblyInfoInputs.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\obj\Debug\net6.0-windows\bilet23.AssemblyInfo.cs
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\obj\Debug\net6.0-windows\bilet23.csproj.CoreCompileInputs.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\obj\Debug\net6.0-windows\bilet23.dll
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\obj\Debug\net6.0-windows\refint\bilet23.dll
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\obj\Debug\net6.0-windows\bilet23.pdb
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\obj\Debug\net6.0-windows\bilet23.genruntimeconfig.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet23\obj\Debug\net6.0-windows\ref\bilet23.dll
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\bin\Debug\net6.0-windows\bilet23.exe
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\bin\Debug\net6.0-windows\bilet23.deps.json
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\bin\Debug\net6.0-windows\bilet23.runtimeconfig.json
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\bin\Debug\net6.0-windows\bilet23.dll
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\bin\Debug\net6.0-windows\bilet23.pdb
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\obj\Debug\net6.0-windows\bilet23.csproj.AssemblyReference.cache
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\obj\Debug\net6.0-windows\bilet23.Form1.resources
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\obj\Debug\net6.0-windows\bilet23.csproj.GenerateResource.cache
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\obj\Debug\net6.0-windows\bilet23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\obj\Debug\net6.0-windows\bilet23.AssemblyInfoInputs.cache
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\obj\Debug\net6.0-windows\bilet23.AssemblyInfo.cs
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\obj\Debug\net6.0-windows\bilet23.csproj.CoreCompileInputs.cache
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\obj\Debug\net6.0-windows\bilet23.dll
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\obj\Debug\net6.0-windows\refint\bilet23.dll
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\obj\Debug\net6.0-windows\bilet23.pdb
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\obj\Debug\net6.0-windows\bilet23.genruntimeconfig.cache
+C:\Users\79136\Desktop\C#\Код к билетам (Нечетные)\bilet23\obj\Debug\net6.0-windows\ref\bilet23.dll

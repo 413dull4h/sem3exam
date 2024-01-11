@@ -1,0 +1,21 @@
+C:\Users\Данил\source\repos\exam10\exam10\bin\Debug\exam10.exe.config
+C:\Users\Данил\source\repos\exam10\exam10\bin\Debug\exam10.exe
+C:\Users\Данил\source\repos\exam10\exam10\bin\Debug\exam10.pdb
+C:\Users\Данил\source\repos\exam10\exam10\obj\Debug\exam10.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\exam10\exam10\obj\Debug\exam10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данил\source\repos\exam10\exam10\obj\Debug\exam10.Form1.resources
+C:\Users\Данил\source\repos\exam10\exam10\obj\Debug\exam10.Properties.Resources.resources
+C:\Users\Данил\source\repos\exam10\exam10\obj\Debug\exam10.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\exam10\exam10\obj\Debug\exam10.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\exam10\exam10\obj\Debug\exam10.exe
+C:\Users\Данил\source\repos\exam10\exam10\obj\Debug\exam10.pdb
+C:\Users\O6ert\Downloads\bilets\Билеты-20230119T105239Z-001\Билеты\Билет 10\exam10\exam10\bin\Debug\exam10.exe.config
+C:\Users\O6ert\Downloads\bilets\Билеты-20230119T105239Z-001\Билеты\Билет 10\exam10\exam10\bin\Debug\exam10.exe
+C:\Users\O6ert\Downloads\bilets\Билеты-20230119T105239Z-001\Билеты\Билет 10\exam10\exam10\bin\Debug\exam10.pdb
+C:\Users\O6ert\Downloads\bilets\Билеты-20230119T105239Z-001\Билеты\Билет 10\exam10\exam10\obj\Debug\exam10.csproj.AssemblyReference.cache
+C:\Users\O6ert\Downloads\bilets\Билеты-20230119T105239Z-001\Билеты\Билет 10\exam10\exam10\obj\Debug\exam10.Form1.resources
+C:\Users\O6ert\Downloads\bilets\Билеты-20230119T105239Z-001\Билеты\Билет 10\exam10\exam10\obj\Debug\exam10.Properties.Resources.resources
+C:\Users\O6ert\Downloads\bilets\Билеты-20230119T105239Z-001\Билеты\Билет 10\exam10\exam10\obj\Debug\exam10.csproj.GenerateResource.cache
+C:\Users\O6ert\Downloads\bilets\Билеты-20230119T105239Z-001\Билеты\Билет 10\exam10\exam10\obj\Debug\exam10.csproj.CoreCompileInputs.cache
+C:\Users\O6ert\Downloads\bilets\Билеты-20230119T105239Z-001\Билеты\Билет 10\exam10\exam10\obj\Debug\exam10.exe
+C:\Users\O6ert\Downloads\bilets\Билеты-20230119T105239Z-001\Билеты\Билет 10\exam10\exam10\obj\Debug\exam10.pdb

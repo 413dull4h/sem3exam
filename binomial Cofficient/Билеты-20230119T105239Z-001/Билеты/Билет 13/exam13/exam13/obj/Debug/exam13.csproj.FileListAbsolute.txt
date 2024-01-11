@@ -1,0 +1,11 @@
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 13\exam13\exam13\bin\Debug\exam13.exe.config
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 13\exam13\exam13\bin\Debug\exam13.exe
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 13\exam13\exam13\bin\Debug\exam13.pdb
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 13\exam13\exam13\obj\Debug\exam13.csproj.AssemblyReference.cache
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 13\exam13\exam13\obj\Debug\exam13.csproj.SuggestedBindingRedirects.cache
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 13\exam13\exam13\obj\Debug\exam13.Form1.resources
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 13\exam13\exam13\obj\Debug\exam13.Properties.Resources.resources
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 13\exam13\exam13\obj\Debug\exam13.csproj.GenerateResource.cache
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 13\exam13\exam13\obj\Debug\exam13.csproj.CoreCompileInputs.cache
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 13\exam13\exam13\obj\Debug\exam13.exe
+D:\binomial Cofficient\Билеты-20230119T105239Z-001\Билеты\Билет 13\exam13\exam13\obj\Debug\exam13.pdb

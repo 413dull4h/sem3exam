@@ -1,0 +1,17 @@
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\bin\Debug\net6.0-windows\bilet19.exe
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\bin\Debug\net6.0-windows\bilet19.deps.json
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\bin\Debug\net6.0-windows\bilet19.runtimeconfig.json
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\bin\Debug\net6.0-windows\bilet19.dll
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\bin\Debug\net6.0-windows\bilet19.pdb
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\obj\Debug\net6.0-windows\bilet19.csproj.AssemblyReference.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\obj\Debug\net6.0-windows\bilet19.Form1.resources
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\obj\Debug\net6.0-windows\bilet19.csproj.GenerateResource.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\obj\Debug\net6.0-windows\bilet19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\obj\Debug\net6.0-windows\bilet19.AssemblyInfoInputs.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\obj\Debug\net6.0-windows\bilet19.AssemblyInfo.cs
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\obj\Debug\net6.0-windows\bilet19.csproj.CoreCompileInputs.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\obj\Debug\net6.0-windows\bilet19.dll
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\obj\Debug\net6.0-windows\refint\bilet19.dll
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\obj\Debug\net6.0-windows\bilet19.pdb
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\obj\Debug\net6.0-windows\bilet19.genruntimeconfig.cache
+C:\Users\79136\Desktop\C#\Экзамен нечётные\bilet19\obj\Debug\net6.0-windows\ref\bilet19.dll
